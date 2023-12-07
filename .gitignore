@@ -16,6 +16,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/storage/app/apiFile/*
-/storage/app/newsCover/*
-/storage/*
+./storage/app/apiFile
+./storage/app/newsCover
